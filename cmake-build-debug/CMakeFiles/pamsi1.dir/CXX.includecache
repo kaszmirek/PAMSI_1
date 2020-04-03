@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Krystian/CLionProjects/pamsi1/algorithms.h
+algorithm
+-
+
+C:/Users/Krystian/CLionProjects/pamsi1/main.cpp
+iostream
+-
+algorithms.h
+C:/Users/Krystian/CLionProjects/pamsi1/algorithms.h
+chrono
+-
+fstream
+-
+bits/stdc++.h
+-
+
